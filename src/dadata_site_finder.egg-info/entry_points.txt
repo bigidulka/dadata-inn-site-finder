@@ -1,0 +1,2 @@
+[console_scripts]
+dadata-site-finder = dadata_site_finder.cli:main
